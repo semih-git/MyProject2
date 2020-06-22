@@ -1,1 +1,3 @@
  change 1
+local repository de actigim dosyadaki test1.txt de 
+degisiklik yaptim.
